@@ -11,5 +11,11 @@
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, tempora.</p>
 
     <p>Lorem ipsum dolor sit amet.</p>
+
+    <ul>
+        <li>Lorem, ipsum.</li>
+        <li>Lorem, ipsum.</li>
+        <li>Lorem, ipsum.</li>
+    </ul>
 </body>
 </html>
